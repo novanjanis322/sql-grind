@@ -1,7 +1,7 @@
 
-# Link: https://leetcode.com/problems/recyclable-and-low-fat-products
+-- # Link: https://leetcode.com/problems/recyclable-and-low-fat-products
 
-# Write your MySQL query statement below
+-- # Write your MySQL query statement below
 SELECT
     product_id
 FROM
